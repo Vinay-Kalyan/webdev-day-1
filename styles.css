@@ -1,0 +1,32 @@
+h1
+{
+    color: darkred;
+    font-family: fantasy;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-family: cursive;
+}
+.images
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+img
+{
+    height: 200px;
+
+}
+a{
+    color: tomato;
+}
+a:hover{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+    font-family: cursive;
+}
